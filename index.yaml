@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  demo:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-05T15:07:47.449897452+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 647308a398029a04276825930e485d6f8083c07beba37057b2cd4c3eac7ff612
+    name: demo
+    urls:
+    - https://javakarthik.github.io/helm/demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-05T15:07:47.448652642+05:30"
