@@ -3,3 +3,4 @@
 {{- template "common.deployment" . -}}
 ---
 {{- template "common.configmap" . -}}
+---
