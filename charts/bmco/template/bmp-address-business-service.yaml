@@ -1,1 +1,5 @@
-
+{{- template "common.service" . -}}
+---
+{{- template "common.deployment" . -}}
+---
+{{- template "common.configmap" . -}}
